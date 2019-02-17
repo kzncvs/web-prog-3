@@ -1,1 +1,2 @@
-Kek!
+include('index.html');
+
